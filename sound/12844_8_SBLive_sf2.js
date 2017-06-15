@@ -12,6 +12,7 @@ var _drum_44_8_SBLive_sf2={
 			,fineTune:0
 			,originalPitch:4600
 			,sample:'/3//f/9//3//f/9//3//f/9//3/2fgNw1l+lTrw88ymhFvICO+9f26jHfLSyoaOP2othiPiEooEAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgBuDgZPqpAW3BMqL3XDxWAVnGUstrEClU+Rl32mIbR1xn3QReHB7vX7/f/9/rQaYBoEGAAAAAAAA'
+			//Sinetick
 		}
 	]
 };

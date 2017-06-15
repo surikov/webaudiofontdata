@@ -13,6 +13,7 @@ var _tone_0090_SoundBlasterOld_sf2={
 			,sampleRate:44100
 			,ahdsr:true
 			,sample:'AAAAAGZ6vHj4dTByTG1uZ6dgB1mLUFFHij0gMzoo+hyREeUFK/qA7hbj19fwzJvCvLiErwSnZ5+ZmLuS240JikaHloUFhZiFQIcGis6NsZKRmFef9qZzr6y4dMLczMTXBONr7hf60gV+EegcJygMM2M9Qkd6UPdYl2BlZ0NtI3L1dbh4aHr/egAAAAAAAAAA'
+			//_tone.sinetick
 		}
 		,{
 			midi:9
@@ -26,6 +27,7 @@ var _tone_0090_SoundBlasterOld_sf2={
 			,sampleRate:44100
 			,ahdsr:true
 			,sample:'AAAAAGZ6vHj4dTByTG1uZ6dgB1mLUFFHij0gMzoo+hyREeUFK/qA7hbj19fwzJvCvLiErwSnZ5+ZmLuS240JikaHloUFhZiFQIcGis6NsZKRmFef9qZzr6y4dMLczMTXBONr7hf60gV+EegcJygMM2M9Qkd6UPdYl2BlZ0NtI3L1dbh4aHr/egAAAAAAAAAA'
+			//_tone.sinetick
 		}
 	]
 };

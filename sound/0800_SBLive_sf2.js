@@ -13,6 +13,7 @@ var _tone_0800_SBLive_sf2={
 			,sampleRate:44100
 			,ahdsr:true
 			,sample:'0JUMnDKgYJCQnqYMyD2MOI4TPjJkMswo/C5UMWQxUjHCMyA1DjYEN/g37DjmOdI6ujugPII9YD40P/o/ukCAQUxCFkPaQ6BEXEUSRtJGgEc4SOJIkEk2St5KgEsmTMJMYE34TYxOHE+sTzxQxlBSUdhRYlLiUmJT4FNaVNRUSFXAVTJWplYWV4RX7ldYWMBYJlmIWexZSlqqWgpbZlu8Wxhccly+XBhdbF24XQZeVF6kXuxeNF+CX8hfDmBQYJZg0mAQYVJhimHKYQhiRGJ+YrBi8GIkY1pjiGO8Y+xjIGRMZIBksGTeZAJlNmVeZYplrmXYZfxlJGZMZnRmlma6Ztpm/mYcZzpnWmd6Z5RnuGfUZ/JnDmgsaEJoXmhuaI5ooGi8aM5o6mgAaRBpKGlCaUxpZGl0aYZpmGmoabppymncaexp/GkKahpqImosakBqRmpUamRqbmp6aoZqjGqWaqBqqGqwarhqwmrKathq1mriauZq7mryavhq+moCawhrDmsQaxhrFmseayJrJGsgayZrKmsqazJrMGs0azhrOms2azRrNGs2azZrNms4azZrNms0azRrNGs0ayprLmsmayprKGsoayJrIGsaaxhrFmsQawxrDGsGa/5qBGv+avhq8Grwaupq6Graatpq1mrOasxqymrEasBqumqyaqhqpmqeapZqkmqMaohqgmp2anZqampialhqVGpMakJqQGo6ajRqLmoiaiBqFmoKagRq/Gnyaepp5GngadZpzmnEabxpsGmoaaBpmGmMaYhpgml4aWxpamleaVJpSGlAaTZpLGkmaR5pFmkGaQBp+mjuaOJo3GjOaMZoumi2aK5opGiSaJBohGh4aGhoUmhCaFJoTmhKaEpolmgCaPhnimiKaBZnAmd2bPhkvGHgcPJfhgBGtVDZHt+c10LLRtYg097OstDEz+DNMsxmy2TKcsmAyIzHmsa0xczE6MMOwzTCYMGUwMi//L40vmq9rLzquzK7eLrCuRK5ZLi4twy3aLbEtSK1hLTqs1KzurImspixCrF8sPSvbq/mrmiu5K1greysbqz2q4arEqueqjCqwqlYqeyohKgcqLinWKf4ppymOqbgpYilLqXapICkMKTao4yjPqPwoqaiWqISosihgqE6ofaguqByoDKg8p+6n3ifPp8Cn8qekJ5YniKe7p22nYidWJ0mnfacyJyYnGqcPJwSnOabvpuWm26bSpsgmwCb1JqwmoyacJpImiiaCprsmcyZrJmUmXaZVJk2mRqZCpnomM6YvpigmIyYdphgmEaYNJgcmAiY9pfil9KXvpeul56XkJd+l2qXWpdQlzyXMpcmlxyXDJcAl/SW5pbalsyWxpa8lq6WpJaelpiWkJaGlnyWdJZslmSWYpZallSWUJZMlkaWRJY+ljiWMpYwliyWJpYiliKWIpYilh6WIJYalhaWFJYYlhKWEpYUlhSWFJYWlhiWFpYUlhSWEJYclhiWHpYclh6WJJYiliaWKJYqliyWLJYyljKWPpZElkKWSpZMlk6WUpZUllyWWJZilmyWdJZyln6WfJaGloiWjJaWlpyWnpamlqqWtJa4lsKWxpbOltCW1pbgluSW7pb2lgCXBJcIlxaXGJcelySXLpc2lzyXSpdQl1aXYJdql3CXeJd8l4qXjpeYl6CXqpeyl7yXxpfOl9aX3pfil/SX9pcCmAqYFJgemCiYMJg6mD6YSphQmFqYZphwmH6YhJiSmJiYoJiqmLCYvpjCmNSY4Jj2mAaZApnymBiZ6pjcmA6ZmpmMmJiYIptqmCiYCphUpASN7qJa/3BHdDEAAAAAAAA='
+			//_tone.Square_Wave_C1
 		}
 		,{
 			midi:80
@@ -26,6 +27,7 @@ var _tone_0800_SBLive_sf2={
 			,sampleRate:44100
 			,ahdsr:true
 			,sample:'pZ3FngmeUZGV1DE/PTmfIv8hnTZzK/8rCTEbMTExHTKVNDU1JzYNN+03zTivOYM6XzszPP88yT2LPj0/6z+tQGVBIULPQoNDNUThRIdFMUbXRnVHFUivSElJ10lxSgFLj0sdTKdMLU2zTTdOt041T61PJVCfUBdRiVH9UW1S1VJFU61TF1R7VN1UQ1WjVQNWY1a9VhtXbVfJVx9Yb1i9WBFZYVmtWftZTVqTWt9aIVtlW6tb7VstXHFcr1zvXC1dbV2hXeFdGV5NXoNet17rXh9fUV+JX7Vf5V8RYEVgbWCbYMNg62AXYT9hZ2GRYbdh3WH/YSViQ2JlYodip2LHYudiB2MnY0NjY2N7Y5VjsWPHY+Nj/WMXZDFkSWRZZHNkh2SbZLNkxWTXZO9k+2QRZSNlNWU7ZUdlU2VtZZdlfWXZZdtl2WVxZZNmY2YRZG9nHWfrZwFZsXfJVD/11bz1zxXrFc4n0RfVRdMz0PXQ99A/zlnNScx/y5fKs8nPyPXHG8dNxnXFqcTfwxvDXcKdwd/AKcBzv8G+Eb5fvbm8Dbxlu8W6JbqHufG4WbjHtzO3pbYVto21AbV7tPmzdbP1snmy/7GJsRGxnbAlsLWvQ6/ZrnWuB66jrTut2ax3rBest6tdq/+qpapLqvepo6lRqQGpsahjqBWox6d/pzOn7aahpmGmGabbpZ2lW6Ufpdmkn6RjpCmk86O1o3ujTaMZo+Wir6KBokuiG6Lpob+hkaFhoTmhFaHnoMGglaBvoEmgIaD7n9Wfs5+Tn3WfU58xnxWf857RnrGenZ55nl+eRZ4rnhWe953hncmdr52VnX+dbZ1XnUGdL50dnQmd85zjnNGcvZytnJ+cn5yFnGOcZZwtnCmczZuXnM2bT5t1nCGddZpHl9eoB5K3m0vMXTu5QwAXAAAAAAAA'
+			//_tone.Square_Wave_C2
 		}
 		,{
 			midi:80
@@ -39,6 +41,7 @@ var _tone_0800_SBLive_sf2={
 			,sampleRate:44100
 			,ahdsr:true
 			,sample:'nYx66P1cgUtVKlFFr0cvQyJBdUgdSABHyUmGS3lMaE1zTmBPW1BRUTdSF1PmU7JUiFViVjpXCFjYWKRZaloxW/Vbs1xtXSRe1F6FXzNg4WCGYSxi0mJ2Yw1kqWQ/ZdFlYmbzZoBnDGiQaBlpnGkdappqHGuVaw1sf2z0bGRt1m1Gbq9uIG+Db9lvXHC0cCFxXHEfcl5y43FRc51z9XJgbx57pXFQaoF4z2yhHwaXmbmBzIq9nrK3u9G7XrRdtrK18LPOsfiwBLD0rhKuD60drDWrVaqCqb6o4KcLpy+mYKWTpMaj/aI8onihvqAEoE2flp7gnTadjJzhmzqbn5r+mWOZzZgymKCXBpd2lumVZJXZlFSU0JNSk9WSU5LakVyR6JBwkAiQjI8hj7yOT47qjY+NF42wjE2MC4wqi0eLH4uSimeJx4ogjbqEMolykriJSoZW6aBfdkMVNx84/FFePgAAAAAAAA=='
+			//_tone.Square_Wave_C3
 		}
 		,{
 			midi:80
@@ -52,6 +55,7 @@ var _tone_0800_SBLive_sf2={
 			,sampleRate:44100
 			,ahdsr:true
 			,sample:'LJzJpayeIpLb1WRmtltzSbc/f1wHUopL91PcUzhUglUFV05WgFY9V/NXvFh7WS9a4FqdW05c9lyfXUpe7V6YX1lgfWH0Yj5k12NEZCll/GPAZBppp2rtXXVn9HMWJ5axjpJe0Sy2ErG+sxa4ebKGsEWzXLEQsICvIq/8rUatoqzUqxuraKq7qQOpSqiZp/ymQqagpfykeqR/owej0qIqokeg3KAuo6iaQ56woxigiZDW3SVbXWatQAAAAAAAAA=='
+			//_tone.Square_Wave_C4
 		}
 		,{
 			midi:80
@@ -65,6 +69,7 @@ var _tone_0800_SBLive_sf2={
 			,sampleRate:44100
 			,ahdsr:true
 			,sample:'wD5gMfBJTEcSPvZFqEbWRYBGkkf2SJxIukaqTAhL3EbuROJcgiVOr1yJaq5Wu5SbFKggqWSlqqMIpBCkaKI6oeihXKL4np6daqMEp4qJtMqkMtBqdjDfNp9Iu0YSPmZFz0bTTQAAAAAAAA=='
+			//_tone.Square_Wave_C5
 		}
 		,{
 			midi:80
@@ -78,6 +83,7 @@ var _tone_0800_SBLive_sf2={
 			,sampleRate:44100
 			,ahdsr:true
 			,sample:'3SWbSilDzD5tShmq64m+qB6JiKXThmnUhGDYMVlKc0I1P21K1bEXurAMAAAAAAAA'
+			//_tone.Square_Wave_C6
 		}
 		,{
 			midi:80
@@ -91,6 +97,7 @@ var _tone_0800_SBLive_sf2={
 			,sampleRate:44100
 			,ahdsr:true
 			,sample:'0SW1Sc5eOyifs7+GspYRgoqtOCowUNxHoFyxIUHJp9yEHupN0WN4KuTFqaqovD2/erxA7ggtw1AhYXgqHdHJtSC5AAAAAAAA'
+			//_tone.Square_Wave_C7
 		}
 	]
 };
