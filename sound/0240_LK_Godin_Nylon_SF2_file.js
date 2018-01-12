@@ -1,5 +1,5 @@
-console.log('load _tone_0240_LK_Godin_Nylon_sf2_file');
-var _tone_0240_LK_Godin_Nylon_sf2_file={
+console.log('load _tone_0240_LK_Godin_Nylon_SF2_file');
+var _tone_0240_LK_Godin_Nylon_SF2_file={
 	zones:[
 		{
 			midi:24
