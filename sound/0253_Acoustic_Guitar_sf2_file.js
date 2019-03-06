@@ -3,7 +3,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 	zones:[
 		{
 			midi:25
-			,originalPitch:4200
+			,originalPitch:4200+100
 			,keyRangeLow:41
 			,keyRangeHigh:42
 			,loopStart:82134
@@ -18,7 +18,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:4300
+			,originalPitch:4300+100
 			,keyRangeLow:43
 			,keyRangeHigh:43
 			,loopStart:107105
@@ -33,7 +33,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:4500
+			,originalPitch:4500+100
 			,keyRangeLow:44
 			,keyRangeHigh:45
 			,loopStart:59231
@@ -48,7 +48,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:4700
+			,originalPitch:4700+100
 			,keyRangeLow:46
 			,keyRangeHigh:47
 			,loopStart:52013
@@ -63,7 +63,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:4800
+			,originalPitch:4800+100
 			,keyRangeLow:48
 			,keyRangeHigh:48
 			,loopStart:82881
@@ -78,7 +78,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:5000
+			,originalPitch:5000+100
 			,keyRangeLow:49
 			,keyRangeHigh:50
 			,loopStart:69428
@@ -93,7 +93,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:5200
+			,originalPitch:5200+100
 			,keyRangeLow:51
 			,keyRangeHigh:52
 			,loopStart:63855
@@ -108,7 +108,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:5400
+			,originalPitch:5400+100
 			,keyRangeLow:53
 			,keyRangeHigh:54
 			,loopStart:80947
@@ -123,7 +123,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:5500
+			,originalPitch:5500+100
 			,keyRangeLow:55
 			,keyRangeHigh:55
 			,loopStart:64188
@@ -138,7 +138,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:5700
+			,originalPitch:5700+100
 			,keyRangeLow:56
 			,keyRangeHigh:57
 			,loopStart:51429
@@ -153,7 +153,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:5900
+			,originalPitch:5900+100
 			,keyRangeLow:58
 			,keyRangeHigh:59
 			,loopStart:45490
@@ -168,7 +168,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:6000
+			,originalPitch:6000+100
 			,keyRangeLow:60
 			,keyRangeHigh:60
 			,loopStart:57908
@@ -183,7 +183,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:6200
+			,originalPitch:6200+100
 			,keyRangeLow:61
 			,keyRangeHigh:62
 			,loopStart:48649
@@ -198,7 +198,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:6400
+			,originalPitch:6400+100
 			,keyRangeLow:63
 			,keyRangeHigh:64
 			,loopStart:68350
@@ -213,7 +213,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:6600
+			,originalPitch:6600+100
 			,keyRangeLow:65
 			,keyRangeHigh:66
 			,loopStart:55194
@@ -228,7 +228,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:6700
+			,originalPitch:6700+100
 			,keyRangeLow:67
 			,keyRangeHigh:67
 			,loopStart:54219
@@ -243,7 +243,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:6900
+			,originalPitch:6900+100
 			,keyRangeLow:68
 			,keyRangeHigh:69
 			,loopStart:36929
@@ -258,7 +258,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:7100
+			,originalPitch:7100+100
 			,keyRangeLow:70
 			,keyRangeHigh:71
 			,loopStart:78105
@@ -273,7 +273,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:7200
+			,originalPitch:7200+100
 			,keyRangeLow:72
 			,keyRangeHigh:72
 			,loopStart:59897
@@ -288,7 +288,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:7400
+			,originalPitch:7400+100
 			,keyRangeLow:73
 			,keyRangeHigh:74
 			,loopStart:52582
@@ -303,7 +303,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:7600
+			,originalPitch:7600+100
 			,keyRangeLow:75
 			,keyRangeHigh:76
 			,loopStart:64697
@@ -318,7 +318,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:7800
+			,originalPitch:7800+100
 			,keyRangeLow:77
 			,keyRangeHigh:78
 			,loopStart:31500
@@ -333,7 +333,7 @@ var _tone_0253_Acoustic_Guitar_sf2_file={
 		}
 		,{
 			midi:25
-			,originalPitch:7900
+			,originalPitch:7900+100
 			,keyRangeLow:79
 			,keyRangeHigh:83
 			,loopStart:42358
